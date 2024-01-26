@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: lets go see wath i have in my blog
 ---
 
